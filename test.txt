@@ -1,3 +1,6 @@
 hello world
+<<<<<<< HEAD
 hello world
+=======
+>>>>>>> 978c93b37386332a7801e0ed180f31a572a229c4
 hello world
